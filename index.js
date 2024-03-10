@@ -65,8 +65,13 @@ class Timer {
   }
 
   calculateRemainingTime() {
-    return Math.max(0, this.endTime.diff(moment(), 'seconds'));
+    if (this.endTime) {
+      return Math.max(0, this.endTime.diff(moment(), 'seconds'));
+    } else {
+      return 0; // Timer has completed
+    }
   }
+  
 
   formatTime(seconds) {
     const duration = moment.duration(seconds, 'seconds');
