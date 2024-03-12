@@ -25,16 +25,15 @@ To use indra-timer in your project, follow these steps:
     ```
 
 ### 3. Use the provided methods to interact with the timer:
+-pause(): Pause the timer.
+-resume(): Resume the timer.
+-stop(): Stop the timer.
 
     ```javascript
     timer.pause(); // Pause the timer
     timer.resume(); // Resume the timer
     timer.stop(); // Stop the timer
     ```
-
-timer.pause(); // Pause the timer
-timer.resume(); // Resume the timer
-timer.stop(); // Stop the timer
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
