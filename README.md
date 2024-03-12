@@ -9,7 +9,7 @@ You can install indra-timer via npm:
 ```bash
 npm install indra-timer
 
-# Usage
+## Usage
 
 To use indra-timer in your project, follow these steps:
 
@@ -35,5 +35,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Check out the [Demo](https://codesandbox.io/p/github/indranilmondal901/indra-timer-package-guide/main?import=true&embed=1&layout=%257B%2522sidebarPanel%2522%253A%2522EXPLORER%2522%252C%2522rootPanelGroup%2522%253A%257B%2522direction%2522%253A%2522horizontal%2522%252C%2522contentType%2522%253A%2522UNKNOWN%2522%252C%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522id%2522%253A%2522ROOT_LAYOUT%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522UNKNOWN%2522%252C%2522direction%2522%253A%2522vertical%2522%252C%2522id%2522%253A%2522cltopuavs0006356h6k21yoi3%2522%252C%2522sizes%2522%253A%255B60%252C40%255D%252C%2522panels%2522%253A%255B%257B%2522type%2522%253A%2522PANEL_GROUP%2522%252C%2522contentType%2522%253A%2522EDITOR%2522%252C%2522direction%2522%253A%2522horizontal%2522%252C%2522id%2522%253A%2522EDITOR%2522%252C%2522panels%2522%253A%255B%257B%2522type%2522)
 
+[demo](https://65f09fe169501327f7923176--super-frangollo-977d7d.netlify.app/)
 
 
