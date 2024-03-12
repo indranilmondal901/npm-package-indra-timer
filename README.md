@@ -9,7 +9,7 @@ You can install indra-timer via npm:
 ```bash
 npm install indra-timer
 
-## Usage
+### Usage
 
 To use indra-timer in your project, follow these steps:
 
