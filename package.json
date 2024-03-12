@@ -1,7 +1,8 @@
 {
   "name": "indra-timer",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A package for implementing timer",
+  "keywords": ["Timer","Count-Down-Timer","indra-timer","indra","example"],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
