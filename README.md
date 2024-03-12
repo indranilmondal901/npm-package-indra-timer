@@ -12,7 +12,7 @@ npm install indra-timer
 
 To use indra-timer in your project, follow these steps:
 
-### <span style style="color:blue">1. Import the Timer class from indra-timer:</span>
+#### <span style style={color:"blue"}>1. Import the Timer class from indra-timer:</span>
 
     ```javascript
     const Timer = require('indra-timer');
